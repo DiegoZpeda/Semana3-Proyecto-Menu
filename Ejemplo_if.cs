@@ -10,7 +10,7 @@ namespace Semana3_Proyecto_Menu
     {
         public static void estructura_if()
             {
-            System.Console.WriteLine("if esterno");
+            System.Console.WriteLine("if externo");
             }
 
 
