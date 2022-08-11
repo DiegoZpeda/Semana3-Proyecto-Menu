@@ -10,7 +10,7 @@ namespace Semana3_Proyecto_Menu
     {
         public static void estructura_Dowhile()
         {
-            System.Console.WriteLine("Dowhile esterno");
+            System.Console.WriteLine("Dowhile externo");
         }
 
     }
