@@ -10,7 +10,7 @@ namespace Semana3_Proyecto_Menu
     {
         public static void estructura_While()
         {
-            System.Console.WriteLine("While esterno");
+            System.Console.WriteLine("While externo");
         }
 
     }
