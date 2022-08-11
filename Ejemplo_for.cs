@@ -10,7 +10,7 @@ namespace Semana3_Proyecto_Menu
     {
         public static void estructura_for()
         {
-            System.Console.WriteLine("for esterno");
+            System.Console.WriteLine("for externo");
         }
 
     }
