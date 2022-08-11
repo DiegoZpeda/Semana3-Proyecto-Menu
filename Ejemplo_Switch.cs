@@ -10,7 +10,7 @@ namespace Semana3_Proyecto_Menu
     {
         public static void estructura_switch()
         {
-            System.Console.WriteLine("Switch esterno");
+            System.Console.WriteLine("Switch externo");
         }
 
     }
