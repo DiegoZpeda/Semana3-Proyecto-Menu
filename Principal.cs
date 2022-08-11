@@ -30,12 +30,13 @@ namespace Semana3_Proyecto_Menu
 
             do
             {
+                Console.Clear();
                 menu_interno();
 
                 System.Console.WriteLine("Ingrese 1 para repetir menú");
                 System.Console.WriteLine("Ingrese 2 para salir");
                 repetir = Int32.Parse(Console.ReadLine());
-
+                
             } while (repetir == 1);
 
         } //Cierre de función principal
