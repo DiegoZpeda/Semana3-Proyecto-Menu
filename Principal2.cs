@@ -13,7 +13,7 @@ using static Semana3_Proyecto_Menu.Ejemplo_While;
 
 namespace Semana3_Proyecto_Menu
 {
-    class Principal
+    class Principal2
     {
         
         //Funcion principal que inicia el programa
@@ -63,27 +63,27 @@ namespace Semana3_Proyecto_Menu
             {
                 case 1:
                     
-                    programa_if();
-                 
+                    estructura_if();
+
                     break;
 
                 case 2:
                     
-                    programa_switch();
+                    estructura_switch();
                     break;
 
                 case 3:
                     
-                    programa_for();
+                    estructura_for();
                     break;
 
                 case 4:
                     
-                    programa_while();
+                    estructura_While();
                     break;
                 case 5:
                     
-                    programa_dowhile();
+                    estructura_Dowhile();
                     break;
 
                 default:
